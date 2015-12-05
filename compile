@@ -1,1 +1,2 @@
 clang randomized_rank_selection.c
+clang++ -g -o red_black red_black.cpp
