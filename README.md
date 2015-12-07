@@ -9,10 +9,10 @@
 
 - Non-deterministic rank selection
 - Red Black tree insertion 
+- Longest common subsequence
 
 ## Coming Up (hopefully)
 
-- Longest common subsequence
 - Rod cutting
 - BFS and DFS
 - Topological DAG sort
