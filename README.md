@@ -10,6 +10,7 @@
 - Non-deterministic rank selection
 - Red Black tree insertion 
 - Longest common subsequence
+- Interval tree
 
 ## Coming Up (hopefully)
 
