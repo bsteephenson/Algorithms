@@ -11,11 +11,12 @@
 - Red Black tree insertion 
 - Longest common subsequence
 - Interval tree
+- Breadth first search - shortest path in unweighted graph
 
 ## Coming Up (hopefully)
 
 - Rod cutting
-- BFS and DFS
+- Depth first search
 - Topological DAG sort
 - Partition graph by connected components
 - Minimum spanning tree with Kruskal and Prim
