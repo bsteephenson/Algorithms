@@ -1,5 +1,5 @@
 
-all: rank rb lcs interval bfs
+all: rank rb lcs interval bfs dij
 
 rank: randomized_rank_selection.c
 	clang -o randomized_rank_selection randomized_rank_selection.c
@@ -16,3 +16,6 @@ interval: interval_tree.cpp
 
 bfs: bfs.cpp
 	clang++ -g -o bfs bfs.cpp
+
+dij: dijkstra.cpp
+	clang++ -g -Wno-c++11-extensions -o dijkstra dijkstra.cpp

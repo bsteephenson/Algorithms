@@ -12,6 +12,7 @@
 - Longest common subsequence
 - Interval tree
 - Breadth first search - shortest path in unweighted graph
+- Dijkstra' shortest path
 
 ## Coming Up (hopefully)
 
@@ -21,5 +22,4 @@
 - Partition graph by connected components
 - Minimum spanning tree with Kruskal and Prim
 - Bellman Ford' shortest path
-- Dijkstra' shortest path
 - DAG shortest path
