@@ -1,5 +1,5 @@
 
-all: rank rb lcs interval bfs dij
+all: rank rb lcs interval bfs dij bellmanford
 
 rank: randomized_rank_selection.c
 	clang -o randomized_rank_selection randomized_rank_selection.c
@@ -19,3 +19,6 @@ bfs: bfs.cpp
 
 dij: dijkstra.cpp
 	clang++ -g -Wno-c++11-extensions -o dijkstra dijkstra.cpp
+
+bellmanford: bellmanford.cpp
+	clang++ -g -Wno-c++11-extensions -o bellmanford bellmanford.cpp
