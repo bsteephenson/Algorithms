@@ -15,12 +15,11 @@
 - Dijkstra shortest path
 - Bellman Ford shortest path
 - Minimum Spanning Tree with Kruskal's algorithm
+- DFS / Topological DAG sort
 
 ## Coming Up (hopefully)
 
 - Rod cutting
-- Depth first search
-- Topological DAG sort
 - Partition graph by connected components
 - Prim's algorithm
 - DAG shortest path

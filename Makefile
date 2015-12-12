@@ -1,5 +1,5 @@
 
-all: rank rb lcs interval bfs dij bellmanford kruskal
+all: rank rb lcs interval bfs dij bellmanford kruskal dag
 
 rank: randomized_rank_selection.c
 	clang -o randomized_rank_selection randomized_rank_selection.c
@@ -24,3 +24,5 @@ bellmanford: bellmanford.cpp
 	clang++ -g -Wno-c++11-extensions -o bellmanford bellmanford.cpp
 kruskal: kruskal.cpp
 	clang++ -g -Wno-c++11-extensions -o kruskal kruskal.cpp
+dag: dag_sort.cpp
+	clang++ -g -Wno-c++11-extensions -o dag_sort dag_sort.cpp
