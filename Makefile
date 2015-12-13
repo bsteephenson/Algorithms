@@ -26,3 +26,6 @@ kruskal: kruskal.cpp
 	clang++ -g -Wno-c++11-extensions -o kruskal kruskal.cpp
 dag: dag_sort.cpp
 	clang++ -g -Wno-c++11-extensions -o dag_sort dag_sort.cpp
+
+task_runner: task_runner.cpp	
+	clang++ -g -Wno-c++11-extensions -o task_runner task_runner.cpp

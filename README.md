@@ -16,6 +16,7 @@
 - Bellman Ford shortest path
 - Minimum Spanning Tree with Kruskal's algorithm
 - DFS / Topological DAG sort
+- Scheduling with priorities and dependencies
 
 ## Coming Up (hopefully)
 
