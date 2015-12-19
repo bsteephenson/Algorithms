@@ -12,11 +12,12 @@
 - Longest common subsequence
 - Interval tree
 - Breadth first search - shortest path in unweighted graph
-- Dijkstra shortest path
+- Dijkstra shortest path (with a Radix Heap)
 - Bellman Ford shortest path
 - Minimum Spanning Tree with Kruskal's algorithm
 - DFS / Topological DAG sort
 - Scheduling with priorities and dependencies
+- Binary Search
 
 ## Coming Up (hopefully)
 
