@@ -2,7 +2,7 @@
 
 ## Purpose
 
-- Get comfy enough with these algorithms to not fail the final
+- Get comfy enough with these algorithms to not fail ~~the final~~ life
 - Get comfy turning these ideas into code
 
 ## What I've Done
@@ -18,6 +18,7 @@
 - DFS / Topological DAG sort
 - Scheduling with priorities and dependencies
 - Binary Search
+- In place quick sort
 
 ## Coming Up (hopefully)
 
