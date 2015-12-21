@@ -19,6 +19,7 @@
 - Scheduling with priorities and dependencies
 - Binary Search
 - In place quick sort
+- Radix sort
 
 ## Coming Up (hopefully)
 
@@ -26,3 +27,5 @@
 - Partition graph by connected components
 - Prim's algorithm
 - DAG shortest path
+- Merge Sort
+- Linear time heap building
